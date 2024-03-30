@@ -1,7 +1,7 @@
 # Binary to Decimal using IC and 7-Segment display
 Combinational circuit for converting 4-bit binary to decimal. Designed and soldered to perf-board.
 
-See switch positions:
+Example operation:
 
 (0100)<sub>2</sub> = 4           |  (1001)<sub>2</sub> = 9
 :-------------------------:|:-------------------------:
