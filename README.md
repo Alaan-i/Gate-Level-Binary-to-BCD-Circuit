@@ -1,4 +1,4 @@
-# Decimal to Binary using IC and 7-Segment display
+# Binary to Decimal using IC and 7-Segment display
 Combinational circuit for converting binary numbers to decimal decimal. Designed and soldered to perf-board 
 
 See switch positions:
